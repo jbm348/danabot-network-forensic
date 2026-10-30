@@ -1,0 +1,8 @@
+indicator_type,value,description,source
+Q1-IP Address,62.173.142.148,Attacker IP identified in lab,
+Q2-Filename,allegato_708.js,Initial malicious JavaScript file,
+Q3-SHA256,847b4ad90b1daba2d9117a8e05776f3f902dda593fb1252289538acf476c4268,SHA256 of js.payload.txt,Windows CertUtil
+Q4-Process,wscript.exe,Windows Script Host process,
+File Extension,.dll,Second-stage file extension,
+Q5.Filename,WndResizerApp.exe,Second-stage file identified in VirusTotal,Lab evidence
+Q6-SHA256,2597322a49a6252445ca4c8d713320b238113b3b8fd8a2d6fc1088a5934cee0e,SHA256 of second-stage file,VirusTotal
